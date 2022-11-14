@@ -1,4 +1,4 @@
-#My Data Analysis Portfolio
+# My Data Analysis Portfolio
 
 Hey there! First off, thank you for taking the time to take a look into my portfolio!
 Second, the purpose of this portfolio is to show my data anlysis related skills and their relevant projects.
